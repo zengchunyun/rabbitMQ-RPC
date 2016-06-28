@@ -1,0 +1,85 @@
+2016-03-25 00:00:46,631  -  modules.rabbitmq_core   -  INFO  - testing
+2016-03-25 00:03:33,441  -  modules.rabbitmq_core   -  INFO  - testing
+2016-03-25 00:06:20,635  -  modules.rabbitmq_core   -  INFO  - testing
+2016-03-25 00:06:20,645  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 00:08:18,340  -  modules.rabbitmq_core   -  INFO  - testing
+2016-03-25 00:08:28,494  -  modules.rabbitmq_core   -  INFO  - testing
+2016-03-25 00:08:28,505  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 00:13:42,579  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 00:13:42,589  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 00:15:14,013  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 00:15:14,023  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 00:15:54,933  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 00:15:54,942  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 00:17:44,274  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 00:17:44,284  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 00:17:59,849  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 00:17:59,860  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 00:21:31,620  -  modules.rabbitmq_core   -  INFO  - Connecting to True
+2016-03-25 00:21:31,624  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 00:22:33,923  -  modules.rabbitmq_core   -  INFO  - Connecting to None
+2016-03-25 00:22:33,927  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 00:22:49,462  -  modules.rabbitmq_core   -  INFO  - Connecting to <pika.adapters.select_connection.SelectConnection object at 0x10408d5f8>
+2016-03-25 00:22:49,466  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 00:23:20,175  -  modules.rabbitmq_core   -  INFO  - Connecting to <class 'pika.adapters.blocking_connection.BlockingConnection__OnChannelOpenedArgs'>
+2016-03-25 00:23:20,179  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 00:23:46,204  -  modules.rabbitmq_core   -  INFO  - Connecting to None
+2016-03-25 00:23:46,208  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 00:24:12,268  -  modules.rabbitmq_core   -  INFO  - Connecting to True
+2016-03-25 00:24:12,272  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 00:24:52,711  -  modules.rabbitmq_core   -  INFO  - Connecting to True
+2016-03-25 00:24:52,715  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 00:25:28,986  -  modules.rabbitmq_core   -  INFO  - Connecting to <pika.adapters.blocking_connection.BlockingConnection object at 0x10306b0f0>
+2016-03-25 00:25:28,989  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 00:25:40,940  -  modules.rabbitmq_core   -  INFO  - Connecting to <pika.adapters.blocking_connection.BlockingConnection object at 0x10386b0f0>
+2016-03-25 00:25:40,943  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 00:26:33,356  -  modules.rabbitmq_core   -  INFO  - Connecting to {}
+2016-03-25 00:26:33,359  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 00:28:29,720  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 00:28:29,731  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 00:47:05,212  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 00:47:05,222  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 09:37:26,646  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 09:37:26,661  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 09:38:56,552  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 09:38:56,562  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 09:53:38,558  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 09:53:38,568  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 09:55:15,635  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 09:55:15,645  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 09:55:37,740  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 09:55:37,750  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 09:58:06,720  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 09:58:06,731  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 09:59:20,927  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 09:59:20,937  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 10:00:43,158  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 10:00:43,168  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 10:07:36,703  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 10:07:36,713  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 10:15:33,789  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 10:15:33,800  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-03-25 10:15:51,434  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 10:15:51,445  -  modules.rabbitmq_core   -  INFO  - exec command ps
+2016-03-25 10:16:21,453  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 10:16:21,463  -  modules.rabbitmq_core   -  INFO  - exec command ps |head -n3
+2016-03-25 10:17:14,248  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 10:17:14,258  -  modules.rabbitmq_core   -  INFO  - exec command ps |head -n3
+2016-03-25 10:17:38,032  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 10:17:38,044  -  modules.rabbitmq_core   -  INFO  - exec command ps |head -n3
+2016-03-25 10:17:46,984  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 10:17:46,995  -  modules.rabbitmq_core   -  INFO  - exec command ps |head -n3
+2016-03-25 10:18:18,196  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 10:18:18,210  -  modules.rabbitmq_core   -  INFO  - exec command ps |head -n3
+2016-03-25 10:44:13,892  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 10:44:13,901  -  modules.rabbitmq_core   -  INFO  - exec command ps |head -n3
+2016-03-25 10:44:23,773  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 10:44:23,783  -  modules.rabbitmq_core   -  INFO  - exec command halt
+2016-03-25 10:45:36,560  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 10:45:36,571  -  modules.rabbitmq_core   -  INFO  - exec command halt
+2016-03-25 10:46:21,058  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 10:46:21,068  -  modules.rabbitmq_core   -  INFO  - exec command halt
+2016-03-25 11:02:18,442  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-03-25 11:02:18,453  -  modules.rabbitmq_core   -  INFO  - exec command ls
+2016-06-28 12:50:10,876  -  modules.rabbitmq_core   -  INFO  - Connecting to localhost:5672
+2016-06-28 12:50:10,889  -  modules.rabbitmq_core   -  INFO  - exec command ls
